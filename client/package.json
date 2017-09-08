@@ -32,10 +32,15 @@
             "verbose"
           ],
           "default": "off",
-          "description": "Traces the communication between VSCode and the languageServerExample service."
+          "description": "Traces the communication between VSCode and the yaml language server"
+        },
+        "yaml.schemas":{
+          "type": "object",
+          "default":{"Kubernetes":"*"},
+          "description": "Associate schemas to Yaml files in the current workspace"
         }
       }
-    }
+      }
   },
   "scripts": {
     "vscode:prepublish": "tsc -p ./",

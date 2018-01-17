@@ -80,6 +80,6 @@
   "dependencies": {
     "vscode-languageclient": "3.2.0",
     "vscode-nls": "^2.0.2",
-    "yaml-language-server": "0.0.7"
+    "kedge-language-server": "kedgeproject/kedge-language-server"
   }
 }

@@ -1,22 +1,22 @@
 {
-  "name": "vscode-yaml",
-  "displayName": "YAML Support by Red Hat",
-  "description": "YAML Support for Visual Studio Code provided by Red Hat",
+  "name": "kedge",
+  "displayName": "Kedge Support by Red Hat",
+  "description": "Kedge Support for Visual Studio Code provided by Red Hat",
   "author": "Red Hat",
   "contributors": [
     {
-      "name": "Joshua Pinkney",
-      "email": "jpinkney@redhat.com"
+      "name": "Shubham",
+      "email": "shubham@linux.com"
     }
   ],
   "license": "MIT",
-  "version": "0.0.7",
-  "publisher": "redhat",
+  "version": "0.0.1-alpha",
+  "publisher": "kedgeproject",
   "preview": true,
-  "bugs": "https://github.com/redhat-developer/vscode-yaml/issues",
+  "bugs": "https://github.com/kedgeproject/kedge-language-client/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/redhat-developer/vscode-yaml"
+    "url": "https://github.com/kedgeproject/kedge-language-client"
   },
   "icon": "icon/icon128.png",
   "engines": {
